@@ -7,4 +7,7 @@
 - ⚡ I like to bake cakes 🎂
 
 ~~~html
-Este código em HTML
+<div>
+  <dl>Arroz</dl>
+  <dd>Coloque o arroz em uma panela com água, espere até a água secar, formando assim buraquinhos entre o arroz, e então sirva</dd>
+</div>
