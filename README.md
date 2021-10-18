@@ -5,8 +5,3 @@
 - 💬 I can help you in agile methods (Scrum and Kanban).
 - 😄 I try to improve my English and Java
 - ⚡ I like to bake cakes 🎂
-
-<div>
-  <dl>Arroz</dl>
-  <dd>Coloque o arroz em uma panela com água, espere até a água secar, formando assim buraquinhos entre o arroz, e então sirva</dd>
-</div>
