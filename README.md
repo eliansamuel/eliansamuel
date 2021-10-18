@@ -1,9 +1,4 @@
-### Olá! Eu sou  👋
-
-<!--
-**eliansamuel/eliansamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello! I'm Elian 👋
 
 - 📚 I’m currently Studing Information Systems at Instituto Federal Catarinense.
 - 🌱 I’m currently learning C, Python and Java.
