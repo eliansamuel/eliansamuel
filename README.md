@@ -13,11 +13,10 @@
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eliansamuel&show_icons=true&count_private=true&theme=dark&show_icons=true&include_all_commits=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliansamuel&hide=TeX&theme=dark&layout=compact" />
-</p>
+</p> 
 
-<div> 
-  <a href="https://www.linkedin.com/in/elian-samuel-dos-santos-32a725167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/eliansamuel_s/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<a href="https://www.linkedin.com/in/elian-samuel-dos-santos-32a725167/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link" target="_blank"></a> 
+<a href="https://www.instagram.com/eliansamuel_s/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link" target="_blank"></a>
 
+      
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
