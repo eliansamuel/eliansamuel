@@ -1,5 +1,6 @@
-
 <h1 align = "justify"> Hello, I'm Elian! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=eliansamuel" alt="Elian Samuel" /></p>
 
 - 📚 I’m currently Studing Information Systems at Instituto Federal Catarinense.
 - 🌱 I’m currently learning C, Python and Java.
