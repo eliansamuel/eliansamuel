@@ -10,6 +10,6 @@
 # Git Status
 <p align='center'>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliansamuel&show_icons=true&count_private=true&theme=dark&show_icons=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliansamuel&hide=TeX&theme=dark&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eliansamuel&show_icons=true&count_private=true&theme=dark&show_icons=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliansamuel&hide=TeX&theme=dark&layout=compact" />
 </p>
