@@ -6,3 +6,6 @@
 - 💬 I can help you in agile methods (Scrum and Kanban).
 - 😄 I try to improve my English and Java
 - ⚡ I like to bake cakes 🎂
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliansamuel&show_icons=true&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliansamuel&hide=TeX&theme=tokyonight&layout=compact" />
