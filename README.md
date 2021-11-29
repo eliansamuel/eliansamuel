@@ -11,8 +11,8 @@
 # Git Status
 <p align='center'>
    <a href="https://github.com/eliansamuel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eliansamuel&show_icons=true&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliansamuel&hide=TeX&theme=tokyonight&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eliansamuel&show_icons=true&count_private=true&theme=dark&show_icons=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliansamuel&hide=TeX&theme=dark&layout=compact" />
 </div>
 <div style="display: inline_block"><br>
   
